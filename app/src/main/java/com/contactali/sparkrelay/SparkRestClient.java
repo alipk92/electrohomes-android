@@ -1,4 +1,4 @@
-package me.sheharyar.alisparkrelay;
+package com.contactali.sparkrelay;
 
 import com.loopj.android.http.*;
 

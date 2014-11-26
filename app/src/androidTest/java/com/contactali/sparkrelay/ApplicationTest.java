@@ -1,4 +1,4 @@
-package me.sheharyar.alisparkrelay;
+package com.contactali.sparkrelay;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
